@@ -1,4 +1,4 @@
-describe('Server-side rendered version', function() {
+describe('Client-side rendered version', function() {
   it('work', function() {
     
     cy.visit('http://51.15.108.163');
